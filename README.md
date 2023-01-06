@@ -1,5 +1,5 @@
 # Hr-logger | INFO
-This resource is for getting info for all identificators like discordid, steamhex ... then any player was been connect to the your server.
+This resource is to get information about all IDs like discordID, steamHEX ... of every player who has connected to your server.
 # How to add?
 1. Put the resource into your server files.
 2. Add "ensure Hr-logger" into your server.cfg to start the resource.
