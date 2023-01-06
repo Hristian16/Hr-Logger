@@ -3,5 +3,5 @@ This resource is for getting info for all identificators like discordid, steamhe
 # How to add?
 1. Put the resource into your server files.
 2. Add "ensure Hr-logger" into your server.cfg to start the resource.
-3. Use the SQL file and let's insert him into your database.
+3. Use the SQL file and insert it into your database.
 4. Start your server and you will has the information of your users who connecting to your server into your database.
